@@ -1,4 +1,4 @@
-// const apiKey="d53e52e756fec0a7f10f9796be2d2b0f";
+// constf apiKey="d53e52e756fec0a7f10f9796be2d2b0f";
 //     const apiUrl="https://api.openweathermap.org/data/2.5/weather?&units=metric&q=";
 //     async function checkweather(city){
 //         const responce = await fetch (apiUrl+ city + `&appid=${apiKey}`);
@@ -6,9 +6,9 @@
 //         console.log(data,"here is data");
 //     }
 
-//https://api.openweathermap.org/data/2.5/weather?q=Germany,&appid=d53e52e756fec0a7f10f9796be2d2b0f&units=metric
+//https://api.openweathermap.org/data/2.5ther?q=Germany,&appid=d53e52e756fec0a7f10f9796be2d2b0f&uniic
 
-const apikey='d53e52e756fec0a7f10f9796be2d2b0f';
+const apikey='d53e52e756fec0a7f10f9796be2d2b0';
 const apiurl='//api.openweathermap.org/data/2.5/weather?units=metric&q=';
 
 const search=document.querySelector('.search');
